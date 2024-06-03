@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nusrat Jahan</h1>
 <h3 align="center">A passionate frontend develope</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3ZWURcla4584WKb9G0Le-u&ust=1717518871365000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDn2Nbuv4YDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw3ZWURcla4584WKb9G0Le-u&ust=1717518871365000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDn2Nbuv4YDFQAAAAAdAAAAABAE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratsuma45&label=Profile%20views&color=0e75b6&style=flat" alt="nusratsuma45" /> </p>
 
